@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*.kdbx
+*.key
+*.p12
+*.pfx
+.venv/
+
+# Historique local des observations Bluetooth
+*.sqlite3
+*.sqlite3-*
